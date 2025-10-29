@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.base.evolution.alignment:beast.pkgmgmt:beast.base.core:beast.base.inference:beast.base.evolution.tree.coalescent:beast.pkgmgmt:beast.base.core:beast.base.inference.util:beast.evolution.nuc:beast.base.evolution.operator:beast.base.inference.operator:beast.base.evolution.sitemodel:beast.base.evolution.substitutionmodel:beast.base.evolution.likelihood" required="BEAST.base v2.7.8" version="2.7">
+
+    <data
+id="dravidian_4lang"
+spec="Alignment"
+dataType="standard"
+name="alignment">
+        <sequence id="seq_Kannada" spec="Sequence" taxon="Kannada" totalcount="2" value="110000101001000010010100101101010011001001100000110110011010010010010101010110010110010000011011001100100101010001001010101110101101100001011001010110010000011010100010100101011010111001001001110101100100100100001011101100101101010101101111110011100000101011011100010"/>
+        <sequence id="seq_Malayalam" spec="Sequence" taxon="Malayalam" totalcount="2" value="110001000110000100100101100100011010110011001001010010010110110010010111010010110100100010101011001110000110010100011110101110011001100010101010011100010010101010001110110001011100111001010000110011001001000101010001110001001101010101101111110111010101011111011100100"/>
+        <sequence id="seq_Tamil" spec="Sequence" taxon="Tamil" totalcount="2" value="110001000010011101001000100100010010010000010001010001011010010101000011001010010101000001101001011111001110011100001010101110011011100110001010011000110001100111001010110001111100111001010000110011010001001100100001010011011111010101101111110011101010101111011000100"/>
+        <sequence id="seq_Telugu" spec="Sequence" taxon="Telugu" totalcount="2" value="101110110010100011000110010010110110000101000110111100111001001000101101110001011100001111000100101110010000110010101011011101001101011000000100110101001100001010010101101010011101110110101110101000100010010110000101100100011101101111111111101011100000101111110111001"/>
+        <userDataType id="StandardData.0" spec="beast.base.evolution.datatype.StandardData" ambiguities="" nrOfStates="2"/>
+    </data>
+
+    <map name="Uniform" >beast.base.inference.distribution.Uniform</map>
+
+    <map name="Exponential" >beast.base.inference.distribution.Exponential</map>
+
+    <map name="LogNormal" >beast.base.inference.distribution.LogNormalDistributionModel</map>
+
+    <map name="Normal" >beast.base.inference.distribution.Normal</map>
+
+    <map name="Beta" >beast.base.inference.distribution.Beta</map>
+
+    <map name="Gamma" >beast.base.inference.distribution.Gamma</map>
+
+    <map name="LaplaceDistribution" >beast.base.inference.distribution.LaplaceDistribution</map>
+
+    <map name="prior" >beast.base.inference.distribution.Prior</map>
+
+    <map name="InverseGamma" >beast.base.inference.distribution.InverseGamma</map>
+
+    <map name="OneOnX" >beast.base.inference.distribution.OneOnX</map>
+
+    <run id="mcmc" spec="MCMC" chainLength="100000">
+        <state id="state" spec="State" storeEvery="5000">
+            <tree id="Tree.t:dravidian_4lang" spec="beast.base.evolution.tree.Tree" name="stateNode">
+                <trait id="dateTrait.t:dravidian_4lang" spec="beast.base.evolution.tree.TraitSet" traitname="date">
+                                    Kannada=1.575,
+
+Malayalam=1.195,
+
+Tamil=2.323,
+
+Telugu=1.45                
+                    <taxa id="TaxonSet.dravidian_4lang" spec="TaxonSet">
+                        <alignment idref="dravidian_4lang"/>
+                    </taxa>
+                </trait>
+                <taxonset idref="TaxonSet.dravidian_4lang"/>
+            </tree>
+            <parameter id="ucldMean.c:dravidian_4lang" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+            <parameter id="ucldStdev.c:dravidian_4lang" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+            <stateNode id="rateCategories.c:dravidian_4lang" spec="parameter.IntegerParameter" dimension="6">1</stateNode>
+            <parameter id="birthRate.t:dravidian_4lang" spec="parameter.RealParameter" lower="0.0" name="stateNode">1.0</parameter>
+        </state>
+        <init id="RandomTree.t:dravidian_4lang" spec="RandomTree" estimate="false" initial="@Tree.t:dravidian_4lang" taxa="@dravidian_4lang">
+            <populationModel id="ConstantPopulation0.t:dravidian_4lang" spec="ConstantPopulation">
+                <parameter id="randomPopSize.t:dravidian_4lang" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+            </populationModel>
+        </init>
+        <distribution id="posterior" spec="CompoundDistribution">
+            <distribution id="prior" spec="CompoundDistribution">
+                <distribution id="YuleModel.t:dravidian_4lang" spec="beast.base.evolution.speciation.YuleModel" birthDiffRate="@birthRate.t:dravidian_4lang" tree="@Tree.t:dravidian_4lang"/>
+                <prior id="YuleBirthRatePrior.t:dravidian_4lang" name="distribution" x="@birthRate.t:dravidian_4lang">
+                    <Uniform id="Uniform.1" name="distr" upper="Infinity"/>
+                </prior>
+                <prior id="MeanRatePrior.c:dravidian_4lang" name="distribution" x="@ucldMean.c:dravidian_4lang">
+                    <Gamma id="Gamma.1" name="distr">
+                        <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="alpha">0.01</parameter>
+                        <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="beta">100.0</parameter>
+                    </Gamma>
+                </prior>
+                <prior id="ucldStdevPrior.c:dravidian_4lang" name="distribution" x="@ucldStdev.c:dravidian_4lang">
+                    <Gamma id="Gamma.0" name="distr">
+                        <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                        <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                    </Gamma>
+                </prior>
+            </distribution>
+            <distribution id="likelihood" spec="CompoundDistribution" useThreads="true">
+                <distribution id="treeLikelihood.dravidian_4lang" spec="ThreadedTreeLikelihood" data="@dravidian_4lang" tree="@Tree.t:dravidian_4lang">
+                    <siteModel id="SiteModel.s:dravidian_4lang" spec="SiteModel">
+                        <parameter id="mutationRate.s:dravidian_4lang" spec="parameter.RealParameter" estimate="false" lower="0.0" name="mutationRate">1.0</parameter>
+                        <parameter id="gammaShape.s:dravidian_4lang" spec="parameter.RealParameter" estimate="false" lower="0.1" name="shape">1.0</parameter>
+                        <parameter id="proportionInvariant.s:dravidian_4lang" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                        <substModel id="MutationDeathModel.s:dravidian_4lang" spec="MutationDeathModel">
+                            <parameter id="deathprob.s:dravidian_4lang" spec="parameter.RealParameter" estimate="false" lower="0.0" name="deathprob">0.1</parameter>
+                            <frequencies id="freqs.s:dravidian_4lang" spec="Frequencies">
+                                <parameter id="RealParameter.1" spec="parameter.RealParameter" dimension="2" lower="0.0" name="frequencies">1.0 0.0</parameter>
+                            </frequencies>
+                        </substModel>
+                    </siteModel>
+                    <branchRateModel id="RelaxedClock.c:dravidian_4lang" spec="beast.base.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:dravidian_4lang" rateCategories="@rateCategories.c:dravidian_4lang" tree="@Tree.t:dravidian_4lang">
+                        <LogNormal id="LogNormalDistributionModel.c:dravidian_4lang" S="@ucldStdev.c:dravidian_4lang" meanInRealSpace="true" name="distr">
+                            <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                        </LogNormal>
+                    </branchRateModel>
+                </distribution>
+            </distribution>
+        </distribution>
+        <operator id="ucldMeanScaler.c:dravidian_4lang" spec="ScaleOperator" parameter="@ucldMean.c:dravidian_4lang" scaleFactor="0.5" weight="1.0"/>
+        <operator id="ucldStdevScaler.c:dravidian_4lang" spec="ScaleOperator" parameter="@ucldStdev.c:dravidian_4lang" scaleFactor="0.5" weight="3.0"/>
+        <operator id="CategoriesRandomWalk.c:dravidian_4lang" spec="operator.IntRandomWalkOperator" parameter="@rateCategories.c:dravidian_4lang" weight="10.0" windowSize="1"/>
+        <operator id="CategoriesSwapOperator.c:dravidian_4lang" spec="operator.SwapOperator" intparameter="@rateCategories.c:dravidian_4lang" weight="10.0"/>
+        <operator id="CategoriesUniform.c:dravidian_4lang" spec="operator.UniformOperator" parameter="@rateCategories.c:dravidian_4lang" weight="10.0"/>
+        <operator id="relaxedUpDownOperator.c:dravidian_4lang" spec="operator.UpDownOperator" scaleFactor="0.75" weight="3.0">
+            <up idref="ucldMean.c:dravidian_4lang"/>
+            <down idref="Tree.t:dravidian_4lang"/>
+        </operator>
+        <operator id="YuleBirthRateScaler.t:dravidian_4lang" spec="kernel.BactrianScaleOperator" parameter="@birthRate.t:dravidian_4lang" upper="10.0" weight="3.0"/>
+        <operator id="YuleModelTreeRootScaler.t:dravidian_4lang" spec="kernel.BactrianScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:dravidian_4lang" upper="10.0" weight="3.0"/>
+        <operator id="YuleModelUniformOperator.t:dravidian_4lang" spec="kernel.BactrianNodeOperator" tree="@Tree.t:dravidian_4lang" weight="30.0"/>
+        <operator id="YuleModelSubtreeSlide.t:dravidian_4lang" spec="kernel.BactrianSubtreeSlide" tree="@Tree.t:dravidian_4lang" weight="15.0"/>
+        <operator id="YuleModelNarrow.t:dravidian_4lang" spec="Exchange" tree="@Tree.t:dravidian_4lang" weight="15.0"/>
+        <operator id="YuleModelWide.t:dravidian_4lang" spec="Exchange" isNarrow="false" tree="@Tree.t:dravidian_4lang" weight="3.0"/>
+        <operator id="YuleModelWilsonBalding.t:dravidian_4lang" spec="WilsonBalding" tree="@Tree.t:dravidian_4lang" weight="3.0"/>
+        <operator id="YuleModelBICEPSEpochTop.t:dravidian_4lang" spec="EpochFlexOperator" scaleFactor="0.1" tree="@Tree.t:dravidian_4lang" weight="2.0"/>
+        <operator id="YuleModelBICEPSEpochAll.t:dravidian_4lang" spec="EpochFlexOperator" fromOldestTipOnly="false" scaleFactor="0.1" tree="@Tree.t:dravidian_4lang" weight="2.0"/>
+        <operator id="YuleModelBICEPSTreeFlex.t:dravidian_4lang" spec="TreeStretchOperator" scaleFactor="0.01" tree="@Tree.t:dravidian_4lang" weight="2.0"/>
+        <logger id="tracelog" spec="Logger" fileName="$(filebase).log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
+            <log idref="posterior"/>
+            <log idref="likelihood"/>
+            <log idref="prior"/>
+            <log idref="treeLikelihood.dravidian_4lang"/>
+            <log id="TreeHeight.t:dravidian_4lang" spec="beast.base.evolution.tree.TreeStatLogger" tree="@Tree.t:dravidian_4lang"/>
+            <log idref="ucldMean.c:dravidian_4lang"/>
+            <log idref="ucldStdev.c:dravidian_4lang"/>
+            <log id="rate.c:dravidian_4lang" spec="beast.base.evolution.RateStatistic" branchratemodel="@RelaxedClock.c:dravidian_4lang" tree="@Tree.t:dravidian_4lang"/>
+            <log idref="YuleModel.t:dravidian_4lang"/>
+            <log idref="birthRate.t:dravidian_4lang"/>
+        </logger>
+        <logger id="screenlog" spec="Logger" logEvery="1000">
+            <log idref="posterior"/>
+            <log idref="likelihood"/>
+            <log idref="prior"/>
+        </logger>
+        <logger id="treelog.t:dravidian_4lang" spec="Logger" fileName="$(filebase)-$(tree).trees" logEvery="1000" mode="tree">
+            <log id="TreeWithMetaDataLogger.t:dravidian_4lang" spec="beast.base.evolution.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:dravidian_4lang" tree="@Tree.t:dravidian_4lang"/>
+        </logger>
+        <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+    </run>
+
+</beast>

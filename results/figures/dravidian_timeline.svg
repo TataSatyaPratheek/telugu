@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg width="1400" height="2800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 2800">
+  <style>
+        .title { font: bold 32px sans-serif; fill: #2c3e50; }
+        .subtitle { font: 20px sans-serif; fill: #34495e; }
+        .period-label { font: bold 18px sans-serif; fill: #2980b9; }
+        .date-label { font: 16px monospace; fill: #7f8c8d; }
+        .event-title { font: bold 16px sans-serif; fill: #2c3e50; }
+        .event-desc { font: 14px sans-serif; fill: #34495e; }
+        .category { font: italic 13px sans-serif; fill: #16a085; }
+        .phylo-box { fill: #e8f5e9; stroke: #4caf50; stroke-width: 2; }
+        .history-box { fill: #fff3e0; stroke: #ff9800; stroke-width: 2; }
+        .proto-box { fill: #e3f2fd; stroke: #2196f3; stroke-width: 3; }
+        .timeline-line { stroke: #bdc3c7; stroke-width: 3; }
+        .branch-line { stroke: #95a5a6; stroke-width: 2; stroke-dasharray: 5,5; }
+        .language-node { fill: #3498db; }
+    </style>
+  <text x="700" y="40" class="title" text-anchor="middle">Dravidian Language Evolution Timeline</text>
+  <text x="700" y="70" class="subtitle" text-anchor="middle">Telugu, Tamil, Kannada, Malayalam → Proto-Dravidian (Reverse Chronological)</text>
+  <line x1="200" y1="120" x2="200" y2="2500" class="timeline-line" />
+  <circle cx="200" cy="120" r="12" fill="#27ae60" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="65" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="90" class="date-label">2025 CE (0.00 kya)</text>
+  <text x="250" y="115" class="event-title">Present Day</text>
+  <text x="250" y="135" class="category">[Modern]</text>
+  <text x="250" y="155" class="event-desc">Four major South Dravidian languages spoken by ~300M people</text>
+  <text x="250" y="175" font="bold 14px sans-serif" fill="#2980b9">Telugu</text>
+  <text x="350" y="175" font="bold 14px sans-serif" fill="#2980b9">Tamil</text>
+  <text x="450" y="175" font="bold 14px sans-serif" fill="#2980b9">Kannada</text>
+  <text x="550" y="175" font="bold 14px sans-serif" fill="#2980b9">Malayalam</text>
+  <circle cx="200" cy="260" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="205" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="230" class="date-label">2008 CE (0.02 kya)</text>
+  <text x="250" y="255" class="event-title">Telugu Classical Language Status</text>
+  <text x="250" y="275" class="category">[Policy]</text>
+  <text x="250" y="295" class="event-desc">Government of India recognizes Telugu as Classical Language</text>
+  <circle cx="200" cy="400" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="345" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="370" class="date-label">1970 CE (0.06 kya)</text>
+  <text x="250" y="395" class="event-title">Modern Linguistic Documentation</text>
+  <text x="250" y="415" class="category">[Linguistics]</text>
+  <text x="250" y="435" class="event-desc">Bhadriraju Krishnamurti's comparative Dravidian linguistics</text>
+  <circle cx="200" cy="540" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="485" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="510" class="date-label">1525 CE (0.50 kya)</text>
+  <text x="250" y="535" class="event-title">Vijayanagara Classical Period</text>
+  <text x="250" y="555" class="category">[Literature]</text>
+  <text x="250" y="575" class="event-desc">Telugu reaches classical zenith; Ashtadiggajas court poets</text>
+  <circle cx="200" cy="680" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="625" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="650" class="date-label">1058 CE (0.97 kya)</text>
+  <text x="250" y="675" class="event-title">Nannaya's Andhra Mahabharatam</text>
+  <text x="250" y="695" class="category">[Literature]</text>
+  <text x="250" y="715" class="event-desc">Adi Kavi Nannaya inaugurates classical Telugu literature</text>
+  <circle cx="200" cy="820" r="12" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="765" width="1120" height="110" class="phylo-box" rx="8" />
+  <text x="250" y="790" class="date-label">900 CE (1.12 kya)</text>
+  <text x="250" y="815" class="event-title">Malayalam Emergence</text>
+  <text x="250" y="835" class="category">[Linguistics]</text>
+  <text x="250" y="855" class="event-desc">Malayalam diverges from Tamil (phylogenetic calibration: 1.2 kya)</text>
+  <circle cx="200" cy="960" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="905" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="930" class="date-label">660 CE (1.36 kya)</text>
+  <text x="250" y="955" class="event-title">Telugu-Kannada Unified Script</text>
+  <text x="250" y="975" class="category">[Script]</text>
+  <text x="250" y="995" class="event-desc">Shared akshara system serves both languages</text>
+  <circle cx="200" cy="1100" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1045" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="1070" class="date-label">575 CE (1.45 kya)</text>
+  <text x="250" y="1095" class="event-title">First Complete Telugu Inscription</text>
+  <text x="250" y="1115" class="category">[Epigraphy]</text>
+  <text x="250" y="1135" class="event-desc">Renati Chola records; Telugu attestation date</text>
+  <circle cx="200" cy="1240" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1185" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="1210" class="date-label">475 CE (1.55 kya)</text>
+  <text x="250" y="1235" class="event-title">Halmidi Inscription (Kannada)</text>
+  <text x="250" y="1255" class="category">[Epigraphy]</text>
+  <text x="250" y="1275" class="event-desc">Earliest Kannada-language epigraph; Kadamba script</text>
+  <circle cx="200" cy="1380" r="12" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1325" width="1120" height="110" class="phylo-box" rx="8" />
+  <text x="250" y="1350" class="date-label">450 BCE (2.48 kya)</text>
+  <text x="250" y="1375" class="event-title">Kannada Divergence (Linguistic)</text>
+  <text x="250" y="1395" class="category">[Linguistics]</text>
+  <text x="250" y="1415" class="event-desc">Spoken Kannada emerges (phylogenetic calibration: 2.75 kya)</text>
+  <circle cx="200" cy="1520" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1465" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="1490" class="date-label">300 BCE (2.33 kya)</text>
+  <text x="250" y="1515" class="event-title">Tamil Attestation</text>
+  <text x="250" y="1535" class="category">[Epigraphy]</text>
+  <text x="250" y="1555" class="event-desc">Tamil-Brahmi inscriptions; earliest Tamil writing</text>
+  <circle cx="200" cy="1660" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1605" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="1630" class="date-label">400 BCE (2.42 kya)</text>
+  <text x="250" y="1655" class="event-title">Earliest Telugu Lexemes</text>
+  <text x="250" y="1675" class="category">[Epigraphy]</text>
+  <text x="250" y="1695" class="event-desc">Bhattiprolu inscriptions contain Telugu words in Prakrit</text>
+  <circle cx="200" cy="1800" r="12" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1745" width="1120" height="110" class="phylo-box" rx="8" />
+  <text x="250" y="1770" class="date-label">1100 BCE (3.12 kya)</text>
+  <text x="250" y="1795" class="event-title">South Dravidian I-II Split</text>
+  <text x="250" y="1815" class="category">[Linguistics]</text>
+  <text x="250" y="1835" class="event-desc">Telugu lineage separates from Tamil-Kannada-Malayalam branch</text>
+  <circle cx="200" cy="1940" r="12" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="1885" width="1120" height="110" class="phylo-box" rx="8" />
+  <text x="250" y="1910" class="date-label">1250 BCE (3.27 kya)</text>
+  <text x="250" y="1935" class="event-title">Telugu Divergence from Proto-Dravidian</text>
+  <text x="250" y="1955" class="category">[Linguistics]</text>
+  <text x="250" y="1975" class="event-desc">Telugu splits as South-Central Dravidian (phylo calibration: 3.25 kya)</text>
+  <circle cx="200" cy="2080" r="12" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="2025" width="1120" height="110" class="phylo-box" rx="8" />
+  <text x="250" y="2050" class="date-label">1500 BCE (3.52 kya)</text>
+  <text x="250" y="2075" class="event-title">Tamil Linguistic Emergence</text>
+  <text x="250" y="2095" class="category">[Linguistics]</text>
+  <text x="250" y="2115" class="event-desc">Spoken Tamil develops (phylogenetic calibration: 3.5 kya)</text>
+  <circle cx="200" cy="2220" r="18" fill="#2196f3" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="2145" width="1120" height="150" class="proto-box" rx="8" />
+  <text x="250" y="2170" class="date-label">2220 BCE (4.22 kya)</text>
+  <text x="250" y="2195" class="event-title">PROTO-DRAVIDIAN</text>
+  <text x="250" y="2215" class="category">[Phylogenetics]</text>
+  <text x="250" y="2235" class="event-desc">Common ancestor of all Dravidian languages (Bayesian estimate: 4.22 kya [3.08-5.79])</text>
+  <text x="250" y="2260" class="event-desc" font-weight="bold">Bayesian estimate: 4.22 kya [95% HPD: 3.08-5.79]</text>
+  <text x="250" y="2280" class="event-desc">Kolipakam et al. (2018): 4.65 kya [3.0-6.5]; Your 4-lang: 4.22 kya</text>
+  <circle cx="200" cy="2360" r="12" fill="#e67e22" stroke="#2c3e50" stroke-width="2" />
+  <rect x="240" y="2305" width="1120" height="110" class="history-box" rx="8" />
+  <text x="250" y="2330" class="date-label">2500 BCE (4.50 kya)</text>
+  <text x="250" y="2355" class="event-title">Proto-Dravidian Homeland</text>
+  <text x="250" y="2375" class="category">[Archaeology]</text>
+  <text x="250" y="2395" class="event-desc">Southern Neolithic; agriculture, metallurgy, peninsular ecology</text>
+  <text x="100" y="2550" class="subtitle">Legend:</text>
+  <circle cx="110" cy="2575" r="8" fill="#9b59b6" />
+  <text x="130" y="2580" font="14px sans-serif" fill="#2c3e50">Phylogenetic estimates (Bayesian MCMC)</text>
+  <circle cx="110" cy="2605" r="8" fill="#e67e22" />
+  <text x="130" y="2610" font="14px sans-serif" fill="#2c3e50">Historical/epigraphic evidence</text>
+  <circle cx="110" cy="2635" r="8" fill="#2196f3" />
+  <text x="130" y="2640" font="14px sans-serif" fill="#2c3e50">Proto-Dravidian (phylogenetic root)</text>
+  <circle cx="110" cy="2665" r="8" fill="#27ae60" />
+  <text x="130" y="2670" font="14px sans-serif" fill="#2c3e50">Modern period</text>
+  <text x="100" y="2730" font="italic 12px sans-serif" fill="#7f8c8d">Phylogenetic analysis: 267 binary cognate features, 4 languages, Bayesian MCMC (10M samples)</text>
+  <text x="100" y="2750" font="italic 12px sans-serif" fill="#7f8c8d">Calibrations: Telugu 3.25 kya, Tamil 3.5 kya, Kannada 2.75 kya, Malayalam 1.2 kya (linguistic divergence dates)</text>
+</svg>

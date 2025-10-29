@@ -131,8 +131,6 @@ Thumbs.db
 *.state
 *.xml.state
 
-# Results and logs
-results/
 
 # Archive test runs
 archive/test_runs/
