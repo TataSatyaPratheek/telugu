@@ -1,0 +1,561 @@
+ID,DOCULECT,CONCEPT,COGID,COGNACY,VALUE,BORROWING,FORM,TOKENS
+1245,Kannada,I,237,I-B,na:nu,,na:nu,n aː n u
+1448,Malayalam,I,237,I-B,ɲa:n,,ɲa:n,ɲ aː n
+2090,Tamil,I,237,I-B,na:n,,na:n,n aː n
+741,Telugu,I,237,I-B,ne:nu,,ne:nu,n eː n u
+1253,Kannada,all,1,all-A,ella,,ella,e lː a
+1459,Malayalam,all,1,all-A,ella,,ella,e lː a
+2100,Tamil,all,1,all-A,ella:m,,ella:m,e lː aː m
+4,Telugu,all,2,all-B,anta,,anta,a n t a
+755,Telugu,all,335,all-C,mottamu,,mottamu,m o tː a m u
+754,Telugu,all,337,all-E,anni,,anni,a nː i
+1552,Malayalam,ashes,3,ashes-A,tʃa:mbal,,tʃa:mbal,tʃ aː m b a l
+1551,Malayalam,ashes,3,ashes-A,tʃa:ɾam,,tʃa:ɾam,tʃ aː ɾ a m
+2193,Tamil,ashes,3,ashes-A,sa:mbal,,sa:mbal,s aː m b a l
+1329,Kannada,ashes,4,ashes-B,bu:di,,bu:di,b uː d i
+847,Telugu,ashes,4,ashes-B,bu:ɖida,,bu:ɖida,b uː ɖ i d a
+10,Malayalam,bark,6,bark-A,paṭṭa,,paṭṭa,p a ʈː a
+2123,Tamil,bark,6,bark-A,paʈʈe,,paʈʈe,p a ʈː e
+11,Telugu,bark,6,bark-A,paṭṭa,,paṭṭa,p a ʈː a
+12,Kannada,bark,7,bark-B,nāru,,nāru,n aː r u
+778,Telugu,bark,302,bark-D,beɾaɖu,,beɾaɖu,b e ɾ a ɖ u
+1270,Kannada,bark,432,bark-G,togaʈi,,togaʈi,t o g a ʈ i
+1483,Malayalam,bark,436,bark-K,maɾattoli,,maɾattoli,m a ɾ a tː o l i
+1516,Malayalam,belly,8,belly-A,ʋajaɾə,,ʋajaɾə,ʋ a j a ɾ ə
+13,Tamil,belly,8,belly-A,vayiṟu,,vayiṟu,v a y i r̪ u
+15,Kannada,belly,9,belly-B,hoṭṭe,,hoṭṭe,h o ʈː e
+1295,Kannada,belly,9,belly-B,hoʈʈa,,hoʈʈa,h o ʈː a
+809,Telugu,belly,9,belly-B,poʈʈa,,poʈʈa,p o ʈː a
+2083,Telugu,belly,10,belly-C,kaɖupu,,kaɖupu,k a ɖ u p u
+2153,Tamil,belly,356,belly-E,tonti,,tonti,t o n t i
+2152,Tamil,belly,360,belly-F,toppai,,toppai,t o pː a i
+2105,Tamil,big,11,big-A,peɾija,,peɾija,p e ɾ i j a
+2106,Tamil,big,11,big-A,perəsə,,perəsə,p e r ə s ə
+759,Telugu,big,11,big-A,pedda,,pedda,p e d d a
+1464,Malayalam,big,12,big-B,ʋaludə,,ʋaludə,ʋ a l u d ə
+1257,Kannada,big,13,big-C,doɖɖadu,,doɖɖadu,d o ɖː a d u
+2116,Tamil,bird,14,bird-A,paɾaʋai,,paɾaʋai,p a ɾ a ʋ a i
+23,Kannada,bird,15,bird-B,hakki,LOAN,hakki,h a kː i
+1263,Kannada,bird,15,bird-B,pakʂi,LOAN,pakʂi,p a k ʂ i
+1473,Malayalam,bird,15,bird-B,pakʂi,LOAN,pakʂi,p a k ʂ i
+768,Telugu,bird,15,bird-B,pakʂi,LOAN,pakʂi,p a k ʂ i
+769,Telugu,bird,191,bird-C,pitta,,pitta,p i tː a
+1474,Malayalam,bird,437,bird-D,kili,,kili,k i l i
+27,Kannada,bite,16,bite-A,kaḍi-,,kaḍi-,k a ɖ i +
+1524,Malayalam,bite,16,bite-A,kadikkuga,,kadikkuga,k a d i kː u g a
+2161,Tamil,bite,16,bite-A,kaɖi,,kaɖi,k a ɖ i
+816,Telugu,bite,193,bite-D,koɾuku,,koɾuku,k o ɾ u k u
+1302,Kannada,bite,323,bite-F,katʃtʃu,,katʃtʃu,k a tːʃ u
+1337,Kannada,black,18,black-A,kappu,,kappu,k a pː u
+1560,Malayalam,black,18,black-A,kaɾuppə,,kaɾuppə,k a ɾ u pː ə
+2202,Tamil,black,18,black-A,kaɾəppə,,kaɾəppə,k a ɾ ə pː ə
+857,Telugu,black,19,black-B,nalupu,,nalupu,n a l u p u
+2089,Telugu,black,19,black-B,nalla,,nalla,n a lː a
+31,Kannada,black,545,black-E,karu-,,karu-,k a r u +
+1273,Kannada,blood,20,blood-A,ɾakta,LOAN,ɾakta,ɾ a k t a
+1489,Malayalam,blood,20,blood-A,ɾektam,LOAN,ɾektam,ɾ e k t a m
+2126,Tamil,blood,20,blood-A,ɾattam,LOAN,ɾattam,ɾ a tː a m
+782,Telugu,blood,20,blood-A,ɾaktamu,LOAN,ɾaktamu,ɾ a k t a m u
+783,Telugu,blood,197,blood-B,nettuɾu,,nettuɾu,n e tː u ɾ u
+1490,Malayalam,blood,406,blood-D,tʃo:ɾa,,tʃo:ɾa,tʃ oː ɾ a
+1274,Kannada,bone,21,bone-A,jelubu,,jelubu,j e l u b u
+1492,Malayalam,bone,21,bone-A,ellə,,ellə,e lː ə
+2127,Tamil,bone,21,bone-A,elumbə,,elumbə,e l u m b ə
+784,Telugu,bone,21,bone-A,jemuka,,jemuka,j e m u k a
+2220,Telugu,bone,199,bone-B,bokka,,bokka,b o kː a
+2221,Kannada,bone,403,bone-D,mu:ɭe,,mu:ɭe,m uː ɭ e
+1491,Malayalam,bone,405,bone-E,asti,,asti,a s t i
+42,Malayalam,breast,22,breast-A,māṟu,,māṟu,m aː r̪ u
+2155,Tamil,breast,22,breast-A,ma:ɾbə,,ma:ɾbə,m aː ɾ b ə
+2156,Tamil,breast,22,breast-A,ma:ɾə,,ma:ɾə,m aː ɾ ə
+43,Kannada,breast,23,breast-B,ede,,ede,e d e
+44,Telugu,breast,24,breast-C,gunde,,gunde,g u n d e
+1519,Malayalam,breast,309,breast-F,mula,,mula,m u l a
+1297,Kannada,breast,310,breast-G,stʰana,,stʰana,s tʰ a n a
+1518,Malayalam,breast,310,breast-G,stanam,,stanam,s t a n a m
+811,Telugu,breast,310,breast-G,stʰanamu,,stʰanamu,s tʰ a n a m u
+848,Telugu,burn,532,burn-B,ka:lu,,ka:lu,k aː l u
+1330,Kannada,burn,203,burn-C,suɖu,,suɖu,s u ɖ u
+2194,Tamil,burn,528,burn-D,eɾi,,eɾi,e ɾ i
+1553,Malayalam,burn,530,burn-E,katikkuga,,katikkuga,k a t i kː u g a
+849,Telugu,burn,534,burn-F,maɳɖu,,maɳɖu,m a ɳ ɖ u
+1508,Malayalam,claw,27,claw-A,nakʰam,LOAN,nakʰam,n a kʰ a m
+2140,Tamil,claw,27,claw-A,nagam,LOAN,nagam,n a g a m
+51,Kannada,claw,28,claw-B,ugaɾu,,ugaɾu,u g a ɾ u
+800,Telugu,claw,28,claw-B,go:ɾu,,go:ɾu,g oː ɾ u
+55,Kannada,cloud,29,cloud-A,mēgha,LOAN,mēgha,m eː g h a
+1549,Malayalam,cloud,29,cloud-A,mekʰam,LOAN,mekʰam,m e kʰ a m
+2191,Tamil,cloud,29,cloud-A,me:gam,LOAN,me:gam,m eː g a m
+2086,Telugu,cloud,29,cloud-A,me:gʰamu,LOAN,me:gʰamu,m eː gʱ a m u
+845,Telugu,cloud,491,cloud-C,mabbu,,mabbu,m a bː u
+1327,Kannada,cloud,492,cloud-D,mo:ɖa,,mo:ɖa,m oː ɖ a
+2087,Telugu,cloud,492,cloud-D,mo:ɖamu,,mo:ɖamu,m oː ɖ a m u
+1340,Kannada,cold,30,cold-A,taɳɳige,,taɳɳige,t a ɳ ɳ i g e
+1563,Malayalam,cold,30,cold-A,taɳuppə,,taɳuppə,t a ɳ u pː ə
+2208,Tamil,cold,31,cold-B,kuɭiɾtʃi,,kuɭiɾtʃi,k u ɭ i ɾ tʃ i
+860,Telugu,cold,32,cold-C,tʃalla,,tʃalla,tʃ a lː a
+63,Kannada,come,33,come-A,baru-,,baru-,b a r u +
+1312,Kannada,come,33,come-A,ba:,,ba:,b aː
+62,Malayalam,come,33,come-A,ʋaɾuga,,ʋaɾuga,ʋ a ɾ u g a
+2173,Tamil,come,33,come-A,ʋa:,,ʋa:,ʋ aː
+826,Telugu,come,33,come-A,ʋatʃtʃu,,ʋatʃtʃu,ʋ a tːʃ u
+953,Telugu,come,33,come-A,ɾa,,ɾa,ɾ a
+66,Kannada,die,34,die-A,sa:ji,,sa:ji,s aː j i
+2167,Tamil,die,34,die-A,tʃa:,,tʃa:,tʃ aː
+2168,Tamil,die,34,die-A,sattə po,,sattə po,s a tː ə # p o
+821,Telugu,die,34,die-A,tʃatʃtʃipo:ʋu,,tʃatʃtʃipo:ʋu,tʃ a tːʃ i p oː ʋ u
+68,Malayalam,die,35,die-B,maɾikkuga,LOAN,maɾikkuga,m a ɾ i kː u g a
+1264,Kannada,dog,36,dog-A,na:ji,,na:ji,n aː j i
+1475,Malayalam,dog,36,dog-A,na:ja,,na:ja,n aː j a
+2117,Tamil,dog,36,dog-A,na:ji,,na:ji,n aː j i
+770,Telugu,dog,37,dog-B,kukka,EXCLUDE,kukka,k u kː a
+1476,Malayalam,dog,438,dog-C,paʈʈi,,paʈʈi,p a ʈː i
+75,Kannada,drink,38,drink-A,kuḍi-,,kuḍi-,k u ɖ i +
+1300,Kannada,drink,38,drink-A,kudijo:du,,kudijo:du,k u d i j oː d u
+74,Malayalam,drink,38,drink-A,kuṭi-,,kuṭi-,k u ʈ i +
+1522,Malayalam,drink,38,drink-A,kudikkuga,,kudikkuga,k u d i kː u g a
+2159,Tamil,drink,38,drink-A,kuɖi,,kuɖi,k u ɖ i
+814,Telugu,drink,39,drink-B,ta:gu,,ta:gu,t aː g u
+77,Tamil,dry,40,dry-A,ularnta,,ularnta,u l a r n t a
+866,Telugu,dry,42,dry-C,eɳɖu,,eɳɖu,e ɳ ɖ u
+2215,Tamil,dry,213,dry-D,kaindadə,,kaindadə,k a i n d a d ə
+2216,Tamil,dry,213,dry-D,ka:ndʒə,,ka:ndʒə,k aː n dʒ ə
+79,Kannada,dry,214,dry-E,battida,,battida,b a tː i d a
+78,Malayalam,dry,214,dry-E,varaṇṭa,,varaṇṭa,v a r a ɳ ʈ a
+1345,Kannada,dry,482,dry-F,oɳagidu,,oɳagidu,o ɳ a g i d u
+1568,Malayalam,dry,482,dry-F,uɳangija,,uɳangija,u ɳ a n g i j a
+865,Telugu,dry,483,dry-G,poɖi,,poɖi,p o ɖ i
+1285,Kannada,ear,43,ear-A,kiʋi,,kiʋi,k i ʋ i
+1505,Malayalam,ear,43,ear-A,tʃeʋi,,tʃeʋi,tʃ e ʋ i
+798,Telugu,ear,43,ear-A,tʃeʋi,,tʃeʋi,tʃ e ʋ i
+84,Malayalam,ear,44,ear-B,kātu,,kātu,k aː t u
+2138,Tamil,ear,44,ear-B,ka:də,,ka:də,k aː d ə
+1326,Kannada,earth,45,earth-A,maɳɳu,,maɳɳu,m a ɳ ɳ u
+1548,Malayalam,earth,45,earth-A,mannə,,mannə,m a nː ə
+2190,Tamil,earth,45,earth-A,mannə,,mannə,m a nː ə
+843,Telugu,earth,45,earth-A,mannu,,mannu,m a nː u
+844,Telugu,earth,504,earth-E,maʈʈi,,maʈʈi,m a ʈː i
+1301,Kannada,eat,46,eat-A,tinnu,,tinnu,t i nː u
+1523,Malayalam,eat,46,eat-A,tinnuga,,tinnuga,t i nː u g a
+815,Telugu,eat,46,eat-A,tinu,,tinu,t i n u
+2160,Tamil,eat,47,eat-B,sa:pədə,,sa:pədə,s aː p ə d ə
+1277,Kannada,egg,48,egg-A,moʈʈe,,moʈʈe,m o ʈː e
+1496,Malayalam,egg,48,egg-A,muʈʈa,,muʈʈa,m u ʈː a
+2130,Tamil,egg,48,egg-A,muʈʈe,,muʈʈe,m u ʈː e
+790,Telugu,egg,49,egg-B,guɖɖu,,guɖɖu,g u ɖː u
+1278,Kannada,egg,395,egg-C,tatti,,tatti,t a tː i
+1286,Kannada,eye,50,eye-A,kaɳɳə,,kaɳɳə,k a ɳ ɳ ə
+1507,Malayalam,eye,50,eye-A,kaɳɳə,,kaɳɳə,k a ɳ ɳ ə
+2139,Tamil,eye,50,eye-A,kaɳɳə,,kaɳɳə,k a ɳ ɳ ə
+799,Telugu,eye,50,eye-A,kannu,,kannu,k a nː u
+1506,Malayalam,eye,373,eye-B,ne:tɾam,LOAN,ne:tɾam,n eː t ɾ a m
+1275,Kannada,fat,51,fat-A,kobbu,,kobbu,k o bː u
+1493,Malayalam,fat,51,fat-A,koɻuppə,,koɻuppə,k o ɻ u pː ə
+2128,Tamil,fat,51,fat-A,koɻuppə,,koɻuppə,k o ɻ u pː ə
+785,Telugu,fat,51,fat-A,koʋʋu (noun),,koʋʋu,k o ʋː u
+912,Telugu,fat,397,fat-B,la:ʋu(adjective),,la:ʋu,l aː ʋ u
+2133,Tamil,feather,52,feather-A,ɾekke,,ɾekke,ɾ e kː e
+1499,Malayalam,feather,53,feather-B,tu:ʋalə,,tu:ʋalə,t uː ʋ a l ə
+107,Kannada,feather,54,feather-C,gari,,gari,g a r i
+793,Telugu,feather,55,feather-D,i:ka,,i:ka,iː k a
+1281,Kannada,feather,303,feather-E,tupaʈa,,tupaʈa,t u p a ʈ a
+109,Tamil,fire,56,fire-A,neruppu,,neruppu,n e r u pː u
+787,Telugu,fire,56,fire-A,nippu,,nippu,n i pː u
+1495,Malayalam,fire,57,fire-B,te:,,te:,t eː
+2129,Tamil,fire,57,fire-B,te:,,te:,t eː
+1276,Kannada,fire,58,fire-C,benki,,benki,b e n k i
+789,Telugu,fire,398,fire-D,maɳʈa,,maɳʈa,m a ɳ ʈ a
+1494,Malayalam,fire,399,fire-F,agni,LOAN,agni,a g n i
+788,Telugu,fire,399,fire-F,aggi,LOAN,aggi,a gː i
+1282,Kannada,fish,60,fish-A,mi:nə,,mi:nə,m iː n ə
+1501,Malayalam,fish,60,fish-A,mi:n,,mi:n,m iː n
+2134,Tamil,fish,60,fish-A,mi:nə,,mi:nə,m iː n ə
+794,Telugu,fish,61,fish-B,tʃe:pa,,tʃe:pa,tʃ eː p a
+116,Kannada,fish,62,fish-C,matsya,LOAN,matsya,m a ts y a
+1500,Malayalam,fish,62,fish-C,malsjam,LOAN,malsjam,m a l s j a m
+119,Kannada,fly,63,fly-A,ha:ɾu,,ha:ɾu,h aː ɾ u
+118,Malayalam,fly,63,fly-A,paɾakkuga,,paɾakkuga,p a ɾ a kː u g a
+2171,Tamil,fly,63,fly-A,paɾə,,paɾə,p a ɾ ə
+824,Telugu,fly,64,fly-B,eguɾu,,eguɾu,e g u ɾ u
+123,Kannada,foot,65,foot-A,aḍi,,aḍi,a ɖ i
+122,Malayalam,foot,65,foot-A,aṭi,,aṭi,a ʈ i
+2148,Tamil,foot,65,foot-A,aɖi,,aɖi,a ɖ i
+806,Telugu,foot,65,foot-A,aɖugu,,aɖugu,a ɖ u g u
+1292,Kannada,foot,66,foot-B,pa:da,,pa:da,p aː d a
+1513,Malayalam,foot,66,foot-B,pa:dam,,pa:dam,p aː d a m
+2146,Tamil,foot,66,foot-B,pa:dam,,pa:dam,p aː d a m
+805,Telugu,foot,66,foot-B,pa:damu,LOAN,pa:damu,p aː d a m u
+2147,Tamil,foot,225,foot-C,kaalə,,kaalə,k a a l ə
+1341,Kannada,full,68,full-B,tumbidu,,tumbidu,t u m b i d u
+1564,Malayalam,full,227,full-C,niɾaɲa,,niɾaɲa,n i ɾ a ɲ a
+125,Tamil,full,227,full-C,niṟainta,,niṟainta,n i r̪ a i n t a
+861,Telugu,full,227,full-C,ninɖu,,ninɖu,n i n ɖ u
+2209,Tamil,full,514,full-D,muɭu,,muɭu,m u ɭ u
+131,Kannada,give,69,give-A,koɖu,,koɖu,k o ɖ u
+130,Malayalam,give,69,give-A,koɖukkuga,,koɖukkuga,k o ɖ u kː u g a
+2179,Tamil,give,69,give-A,kuɖə,,kuɖə,k u ɖ ə
+2178,Tamil,give,471,give-B,ta:,,ta:,t aː
+831,Telugu,give,228,give-C,itʃtʃu,,itʃtʃu,i tːʃ u
+832,Telugu,give,228,give-C,iʋʋaɖam,,iʋʋaɖam,i ʋː a ɖ a m
+1566,Malayalam,good,71,good-A,nalla,,nalla,n a lː a
+2212,Tamil,good,71,good-A,nalla,,nalla,n a lː a
+1343,Kannada,good,72,good-B,oɭɭijadu,,oɭɭijadu,o ɭː i j a d u
+863,Telugu,good,73,good-C,mantʃi,,mantʃi,m a n tʃ i
+1334,Kannada,green,74,green-A,hasiru,,hasiru,h a s i r u
+1557,Malayalam,green,74,green-A,patʃtʃa,,patʃtʃa,p a tːʃ a
+2199,Tamil,green,74,green-A,patʃtʃə,,patʃtʃə,p a tːʃ ə
+854,Telugu,green,74,green-A,patʃtʃa,,patʃtʃa,p a tːʃ a
+1502,Malayalam,hair,380,hair-A,muɖi,,muɖi,m u ɖ i
+2135,Tamil,hair,380,hair-A,muɖi,,muɖi,m u ɖ i
+142,Kannada,hair,76,hair-B,kūdalu,,kūdalu,k uː d a l u
+1283,Kannada,hair,76,hair-B,ku:dalu,,ku:dalu,k uː d a l u
+795,Telugu,hair,77,hair-C,veɳʈɾukalu,,veɳʈɾukalu,v e ɳ ʈ ɾ u k a l u
+144,Malayalam,hair,78,hair-D,rōmam,LOAN,rōmam,r oː m a m
+2136,Tamil,hair,379,hair-E,maiɾə,,maiɾə,m a i ɾ ə
+796,Telugu,hair,383,hair-G,dʒuʈʈu,,dʒuʈʈu,dʒ u ʈː u
+1294,Kannada,hand,79,hand-A,kaj,,kaj,k a j
+1515,Malayalam,hand,79,hand-A,kaj,,kaj,k a j
+2151,Tamil,hand,79,hand-A,kaj,,kaj,k a j
+808,Telugu,hand,79,hand-A,tʃejji,,tʃejji,tʃ e j j i
+151,Kannada,head,80,head-A,tale,,tale,t a l e
+1284,Kannada,head,80,head-A,tale,,tale,t a l e
+1504,Malayalam,head,80,head-A,tala,,tala,t a l a
+2137,Tamil,head,80,head-A,talə,,talə,t a l ə
+797,Telugu,head,80,head-A,tala,,tala,t a l a
+1503,Malayalam,head,681,head-D,ʂiɾasə,LOAN,ʂiɾasə,ʂ i ɾ a s ə
+1304,Kannada,hear,81,hear-A,ke:ɭu,,ke:ɭu,k eː ɭ u
+1526,Malayalam,hear,81,hear-A,kelkuga,,kelkuga,k e l k u g a
+2163,Tamil,hear,81,hear-A,ke:ɭə,,ke:ɭə,k eː ɭ ə
+818,Telugu,hear,234,hear-D,ʋinu,,ʋinu,ʋ i n u
+1298,Kannada,heart,83,heart-A,hrudaya,LOAN,hrudaya,h r u d a y a
+1520,Malayalam,heart,83,heart-A,hɾudajam,LOAN,hɾudajam,h ɾ u d a j a m
+2157,Tamil,heart,83,heart-A,idajam,LOAN,idajam,i d a j a m
+2084,Telugu,heart,83,heart-A,hɾudajamu,LOAN,hɾudajamu,h ɾ u d a j a m u
+812,Telugu,heart,313,heart-B,guɳɖa,,guɳɖa,g u ɳ ɖ a
+1279,Kannada,horn,84,horn-A,kombu,,kombu,k o m b u
+1497,Malayalam,horn,84,horn-A,kompə,,kompə,k o m p ə
+2131,Tamil,horn,84,horn-A,kombə,,kombə,k o m b ə
+791,Telugu,horn,84,horn-A,kommu,,kommu,k o mː u
+171,Kannada,kill,86,kill-A,kollu,,kollu,k o lː u
+170,Malayalam,kill,86,kill-A,kolluga,,kolluga,k o lː u g a
+2169,Tamil,kill,86,kill-A,kollə,,kollə,k o lː ə
+822,Telugu,kill,87,kill-B,tʃampu,,tʃampu,tʃ a m p u
+175,Kannada,knee,88,knee-A,muṇakālo,,muṇakālo,m u ɳ a k aː l o
+174,Malayalam,knee,88,knee-A,muḻaṅkāl,,muḻaṅkāl,m u l̪ a ŋ k aː l
+173,Tamil,knee,88,knee-A,muḻaṅkāl,,muḻaṅkāl,m u l̪ a ŋ k aː l
+807,Telugu,knee,88,knee-A,mo:ka:lu,,mo:ka:lu,m oː k aː l u
+1293,Kannada,knee,361,knee-B,maɳɖi,,maɳɖi,m a ɳ ɖ i
+1514,Malayalam,knee,362,knee-C,muʈʈə,,muʈʈə,m u ʈː ə
+2149,Tamil,knee,362,knee-C,muʈʈi,,muʈʈi,m u ʈː i
+2150,Tamil,knee,362,knee-C,mu:ʈə,,mu:ʈə,m uː ʈ ə
+179,Kannada,know,89,know-A,ari-,,ari-,a r i +
+1527,Malayalam,know,89,know-A,aɾajuga,,aɾajuga,a ɾ a j u g a
+177,Tamil,know,89,know-A,aṟi-,,aṟi-,a r̪ i +
+180,Telugu,know,89,know-A,eṟāgu-,,eṟāgu-,e r̪ aː g u +
+1305,Kannada,know,330,know-D,telidiko,,telidiko,t e l i d i k o
+945,Telugu,know,330,know-D,telusuko,,telusuko,t e l u s u k o
+819,Telugu,know,330,know-D,telusukonu,,telusukonu,t e l u s u k o n u
+2164,Tamil,know,331,know-E,teɾijum,,teɾijum,t e ɾ i j u m
+2165,Tamil,know,331,know-E,terindʒuko,,terindʒuko,t e r i n dʒ u k o
+1268,Kannada,leaf,90,leaf-A,jele,,jele,j e l e
+1481,Malayalam,leaf,90,leaf-A,ila,,ila,i l a
+2121,Tamil,leaf,90,leaf-A,ele,,ele,e l e
+776,Telugu,leaf,91,leaf-B,a:ku,,a:ku,aː k u
+186,Malayalam,lie,92,lie-A,kiɖakkuga,,kiɖakkuga,k i ɖ a kː u g a
+2174,Tamil,lie,92,lie-A,keɖə,,keɖə,k e ɖ ə
+187,Kannada,lie,93,lie-B,malagu,,malagu,m a l a g u
+827,Telugu,lie,457,lie-G,paɖukonu,,paɖukonu,p a ɖ u k o n u
+2175,Tamil,lie,459,lie-I,paɖə,,paɖə,p a ɖ ə
+191,Kannada,liver,94,liver-A,hīri,,hīri,h iː r i
+190,Malayalam,liver,94,liver-A,īral,,īral,iː r a l
+2158,Tamil,liver,94,liver-A,i:ɾaɭ,,i:ɾaɭ,iː ɾ a ɭ
+813,Telugu,liver,95,liver-B,ka:lejamu,,ka:lejamu,k aː l e j a m u
+1521,Malayalam,liver,316,liver-D,kaɾaɭə,,kaɾaɭə,k a ɾ a ɭ ə
+1299,Kannada,liver,318,liver-F,medadʒi:ɾika,,medadʒi:ɾika,m e d a dʒ iː ɾ i k a
+1465,Malayalam,long,96,long-A,ni:nɖa,,ni:nɖa,n iː n ɖ a
+1466,Malayalam,long,96,long-A,ni:lamuɭɭa,,ni:lamuɭɭa,n iː l a m u ɭː a
+193,Tamil,long,96,long-A,nīṇṭa,,nīṇṭa,n iː ɳ ʈ a
+2107,Tamil,long,96,long-A,ni:ɭam,,ni:ɭam,n iː ɭ a m
+2108,Tamil,long,96,long-A,ni:ɭama:na,,ni:ɭama:na,n iː ɭ a m aː n a
+1258,Kannada,long,97,long-B,udda,,udda,u d d a
+760,Telugu,long,98,long-C,poɖaʋu,,poɖaʋu,p o ɖ a ʋ u
+1265,Kannada,louse,99,louse-A,he:nu,,he:nu,h eː n u
+1477,Malayalam,louse,99,louse-A,pe:n,,pe:n,p eː n
+2118,Tamil,louse,99,louse-A,pe:nə,,pe:nə,p eː n ə
+771,Telugu,louse,99,louse-A,pe:nu,,pe:nu,p eː n u
+1470,Malayalam,man,100,man-A,a:ɳə,,a:ɳə,aː ɳ ə
+2112,Tamil,man,100,man-A,a:ɳə,,a:ɳə,aː ɳ ə
+2113,Tamil,man,100,man-A,a:ɳ,,a:ɳ,aː ɳ
+203,Kannada,man,101,man-B,puruṣa,LOAN,puruṣa,p u r u ʂ a
+1471,Malayalam,man,101,man-B,puɾuʂan,LOAN,puɾuʂan,p u ɾ u ʂ a n
+766,Telugu,man,101,man-B,puɾuʂuɖu,LOAN,puɾuʂuɖu,p u ɾ u ʂ u ɖ u
+1261,Kannada,man,416,man-C,ganɖasu,,ganɖasu,g a n ɖ a s u
+765,Telugu,man,420,man-D,magaʋa:ɖu,,magaʋa:ɖu,m a g a ʋ aː ɖ u
+2114,Tamil,man,425,man-I,a:mbɭe,,a:mbɭe,aː m b ɭ e
+1254,Kannada,many,102,many-A,halaʋu,,halaʋu,h a l a ʋ u
+1460,Malayalam,many,102,many-A,pala,,pala,p a l a
+2101,Tamil,many,102,many-A,palə,,palə,p a l ə
+208,Telugu,many,103,many-B,nānā,,nānā,n aː n aː
+756,Telugu,many,341,many-D,tʃa:la,,tʃa:la,tʃ aː l a
+1461,Malayalam,many,344,many-G,ottiɾi,,ottiɾi,o tː i ɾ i
+2102,Tamil,many,345,many-H,neɾija,,neɾija,n e ɾ i j a
+1488,Malayalam,meat,104,meat-A,iɾatʃi,,iɾatʃi,i ɾ a tʃ i
+209,Tamil,meat,104,meat-A,iṟaicci,,iṟaicci,i r̪ a i c c i
+210,Kannada,meat,105,meat-B,bāḍu,,bāḍu,b aː ɖ u
+1272,Kannada,meat,106,meat-C,ma:msa,LOAN,ma:msa,m aː m s a
+1487,Malayalam,meat,106,meat-C,ma:msam,LOAN,ma:msam,m aː m s a m
+781,Telugu,meat,106,meat-C,ma:msamu,LOAN,ma:msamu,m aː m s a m u
+2125,Tamil,meat,408,meat-D,kaɾi,,kaɾi,k a ɾ i
+215,Kannada,moon,107,moon-A,candra,LOAN,candra,c a n d r a
+1320,Kannada,moon,107,moon-A,tʃendɾa,LOAN,tʃendɾa,tʃ e n d ɾ a
+1541,Malayalam,moon,107,moon-A,tʃendɾan,LOAN,tʃendɾan,tʃ e n d ɾ a n
+213,Tamil,moon,107,moon-A,cantiraṉ,LOAN,cantiraṉ,c a n t i r a n̪
+835,Telugu,moon,107,moon-A,tʃendɾuɖu,LOAN,tʃendɾuɖu,tʃ e n d ɾ u ɖ u
+2183,Tamil,moon,247,moon-B,nila,,nila,n i l a
+219,Kannada,mountain,109,mountain-B,beʈʈa,,beʈʈa,b e ʈː a
+852,Telugu,mountain,110,mountain-C,konɖa,,konɖa,k o n ɖ a
+218,Malayalam,mountain,248,mountain-D,mala,,mala,m a l a
+2196,Tamil,mountain,248,mountain-D,malai,,malai,m a l a i
+1555,Malayalam,mountain,523,mountain-F,paɾʋatam,LOAN,paɾʋatam,p a ɾ ʋ a t a m
+978,Telugu,mountain,523,mountain-F,paɾʋatamu,LOAN,paɾʋatamu,p a ɾ ʋ a t a m u
+1289,Kannada,mouth,111,mouth-A,ba:ji,,ba:ji,b aː j i
+1510,Malayalam,mouth,111,mouth-A,ʋa:ja,,ʋa:ja,ʋ aː j a
+2142,Tamil,mouth,111,mouth-A,ʋa:ji,,ʋa:ji,ʋ aː j i
+2143,Tamil,mouth,111,mouth-A,ʋa:,,ʋa:,ʋ aː
+928,Telugu,mouth,112,mouth-B,no:ɾu,,no:ɾu,n oː ɾ u
+1346,Kannada,name,113,name-A,hesaru,,hesaru,h e s a r u
+1569,Malayalam,name,113,name-A,peɾə,,peɾə,p e ɾ ə
+2217,Tamil,name,113,name-A,pe:ɾə,,pe:ɾə,p eː ɾ ə
+867,Telugu,name,113,name-A,pe:ɾu,,pe:ɾu,p eː ɾ u
+1517,Malayalam,neck,114,neck-A,kaɻutə,,kaɻutə,k a ɻ u t ə
+2154,Tamil,neck,114,neck-A,kaɭuttə,,kaɭuttə,k a ɭ u tː ə
+810,Telugu,neck,115,neck-B,meɖa,,meɖa,m e ɖ a
+1296,Kannada,neck,306,neck-D,kuthige,,kuthige,k u tʰ i g e
+862,Telugu,new,117,new-B,kotta,,kotta,k o tː a
+1342,Kannada,new,252,new-C,hosadu,,hosadu,h o s a d u
+1565,Malayalam,new,252,new-C,pudija,,pudija,p u d i j a
+2210,Tamil,new,252,new-C,pudusə,,pudusə,p u d u s ə
+2211,Tamil,new,252,new-C,pudu,,pudu,p u d u
+2204,Tamil,night,118,night-A,iɾa:ʋə,,iɾa:ʋə,i ɾ aː ʋ ə
+2205,Tamil,night,118,night-A,ɾa:ʋə,,ɾa:ʋə,ɾ aː ʋ ə
+239,Kannada,night,119,night-B,ɾa:tɾi,LOAN,ɾa:tɾi,ɾ aː t ɾ i
+1561,Malayalam,night,119,night-B,ɾa:tɾi,LOAN,ɾa:tɾi,ɾ aː t ɾ i
+2203,Tamil,night,119,night-B,ɾa:tɾi,LOAN,ɾa:tɾi,ɾ aː t ɾ i
+858,Telugu,night,119,night-B,ɾa:tɾi,LOAN,ɾa:tɾi,ɾ aː t ɾ i
+1288,Kannada,nose,120,nose-A,mu:gə,,mu:gə,m uː g ə
+1509,Malayalam,nose,120,nose-A,mu:kə,,mu:kə,m uː k ə
+2141,Tamil,nose,120,nose-A,mu:kə,,mu:kə,m uː k ə
+801,Telugu,nose,120,nose-A,mukku,,mukku,m u kː u
+1458,Malayalam,not,121,not-A,illa,,illa,i lː a
+2099,Tamil,not,121,not-A,ille,,ille,i lː e
+752,Telugu,not,121,not-A,le:du,,le:du,l eː d u
+2081,Telugu,not,569,not-B,ka:du,,ka:du,k aː d u
+1252,Kannada,not,255,not-C,alla,,alla,a lː a
+1255,Kannada,one,123,one-A,ondu,,ondu,o n d u
+1462,Malayalam,one,123,one-A,onnə,,onnə,o nː ə
+2103,Tamil,one,123,one-A,onnə,,onnə,o nː ə
+757,Telugu,one,123,one-A,okaʈi,,okaʈi,o k a ʈ i
+1262,Kannada,person,124,person-A,manusa,LOAN,manusa,m a n u s a
+1472,Malayalam,person,124,person-A,manuʂan,LOAN,manuʂan,m a n u ʂ a n
+253,Tamil,person,124,person-A,maṉitaṉ,LOAN,maṉitaṉ,m a n̪ i t a n̪
+2115,Tamil,person,124,person-A,manuʂan,LOAN,manuʂan,m a n u ʂ a n
+767,Telugu,person,124,person-A,maniʂi,LOAN,maniʂi,m a n i ʂ i
+1323,Kannada,rain,125,rain-A,maɭe,,maɭe,m a ɭ e
+1545,Malayalam,rain,125,rain-A,maɻa,,maɻa,m a ɻ a
+2187,Tamil,rain,125,rain-A,maɻai,,maɻai,m a ɻ a i
+839,Telugu,rain,126,rain-B,ʋarʂam,LOAN,ʋarʂam,ʋ a r ʂ a m
+3191,Telugu,rain,257,rain-C,ʋa:na,,ʋa:na,ʋ aː n a
+1333,Kannada,red,127,red-A,kempu,,kempu,k e m p u
+1556,Malayalam,red,127,red-A,tʃumappə,,tʃumappə,tʃ u m a pː ə
+261,Tamil,red,127,red-A,ce-m-,,ce-m-,c e + m +
+2197,Tamil,red,127,red-A,seʋappə,,seʋappə,s e ʋ a pː ə
+2198,Tamil,red,127,red-A,segappə,,segappə,s e g a pː ə
+853,Telugu,red,128,red-B,eɾupu,,eɾupu,e ɾ u p u
+1554,Malayalam,road,129,road-A,ʋaɻi,,ʋaɻi,ʋ a ɻ i
+265,Tamil,road,129,road-A,vaḻi,,vaḻi,v a l̪ i
+267,Kannada,road,130,road-B,mārga,LOAN,mārga,m aː r g a
+2088,Telugu,road,130,road-B,ma:ɾgamu,LOAN,ma:ɾgamu,m aː ɾ g a m u
+851,Telugu,road,542,road-D,da:ɾi,,da:ɾi,d aː ɾ i
+850,Telugu,road,547,road-E,ba:ʈa,,ba:ʈa,b aː ʈ a
+1331,Kannada,road,548,road-F,raste,LOAN,raste,r a s t e
+1269,Kannada,root,131,root-A,be:ɾu,,be:ɾu,b eː ɾ u
+1482,Malayalam,root,131,root-A,ʋe:ɾə,,ʋe:ɾə,ʋ eː ɾ ə
+2122,Tamil,root,131,root-A,ʋe:ɾə,,ʋe:ɾə,ʋ eː ɾ ə
+777,Telugu,root,131,root-A,ʋe:ɾu,,ʋe:ɾu,ʋ eː ɾ u
+275,Kannada,round,132,round-A,baṭṭa,LOAN,baṭṭa,b a ʈː a
+274,Malayalam,round,132,round-A,vaṭṭa-,LOAN,vaṭṭa-,v a ʈː a +
+2213,Tamil,round,132,round-A,ʋaʈʈam,LOAN,ʋaʈʈam,ʋ a ʈː a m
+864,Telugu,round,133,round-B,guɳɖɾani,,guɳɖɾani,g u ɳ ɖ ɾ a n i
+1344,Kannada,round,486,round-C,duɳɖane,,duɳɖane,d u ɳ ɖ a n e
+1567,Malayalam,round,487,round-D,uɾunɖa,,uɾunɖa,u ɾ u n ɖ a
+2214,Tamil,round,487,round-D,uɾunɖai,,uɾunɖai,u ɾ u n ɖ a i
+1325,Kannada,sand,134,sand-A,maraɭu,,maraɭu,m a r a ɭ u
+1547,Malayalam,sand,134,sand-A,maɳal,,maɳal,m a ɳ a l
+2189,Tamil,sand,134,sand-A,maɳal,,maɳal,m a ɳ a l
+279,Kannada,sand,135,sand-B,usubu,,usubu,u s u b u
+841,Telugu,sand,135,sand-B,isuka,,isuka,i s u k a
+2180,Tamil,say,136,say-A,tʃollə,,tʃollə,tʃ o lː ə
+2181,Tamil,say,136,say-A,sollə,,sollə,s o lː ə
+282,Malayalam,say,137,say-B,paɾajuga,,paɾajuga,p a ɾ a j u g a
+283,Kannada,say,138,say-C,heɭu,,heɭu,h e ɭ u
+959,Telugu,say,139,say-D,tʃeppu,,tʃeppu,tʃ e pː u
+1525,Malayalam,see,140,see-A,ka:ɳuka,,ka:ɳuka,k aː ɳ u k a
+285,Tamil,see,140,see-A,kāṇ-,,kāṇ-,k aː ɳ +
+1303,Kannada,see,141,see-B,no:ɖu,,no:ɖu,n oː ɖ u
+817,Telugu,see,326,see-C,tʃu:ɖu,,tʃu:ɖu,tʃ uː ɖ u
+2162,Tamil,see,328,see-F,pa:ɾə,,pa:ɾə,p aː ɾ ə
+291,Kannada,seed,143,seed-A,bede,,bede,b e d e
+1267,Kannada,seed,143,seed-A,bi:dʒa,,bi:dʒa,b iː dʒ a
+290,Malayalam,seed,143,seed-A,vita,,vita,v i t a
+2120,Tamil,seed,143,seed-A,ʋedə,,ʋedə,ʋ e d ə
+773,Telugu,seed,143,seed-A,ʋittanam,,ʋittanam,ʋ i tː a n a m
+774,Telugu,seed,143,seed-A,bi:dʒam,,bi:dʒam,b iː dʒ a m
+775,Telugu,seed,443,seed-B,gindʒa,,gindʒa,g i n dʒ a
+1480,Malayalam,seed,446,seed-G,paɾippə,,paɾippə,p a ɾ i pː ə
+2176,Tamil,sit,144,sit-A,ukka:ɾə,,ukka:ɾə,u kː aː ɾ ə
+294,Malayalam,sit,145,sit-B,iɾikkuga,,iɾikkuga,i ɾ i kː u g a
+295,Kannada,sit,146,sit-C,kuɭitiko,,kuɭitiko,k u ɭ i t i k o
+955,Telugu,sit,147,sit-D,ku:ɾtʃo,,ku:ɾtʃo,k uː ɾ tʃ o
+1315,Kannada,sit,460,sit-F,ku:tuko,,ku:tuko,k uː t u k o
+299,Kannada,skin,148,skin-A,togalu,,togalu,t o g a l u
+1484,Malayalam,skin,148,skin-A,toli,,toli,t o l i
+2124,Tamil,skin,148,skin-A,to:lə,,to:lə,t oː l ə
+779,Telugu,skin,148,skin-A,to:lu,,to:lu,t oː l u
+1271,Kannada,skin,301,skin-B,tʃaɾma,LOAN,tʃaɾma,tʃ a ɾ m a
+1485,Malayalam,skin,301,skin-B,tʃeɾmam,LOAN,tʃeɾmam,tʃ e ɾ m a m
+780,Telugu,skin,301,skin-B,tʃaɾmamu,LOAN,tʃaɾmamu,tʃ a ɾ m a m u
+302,Malayalam,sleep,149,sleep-A,uɾanguga,,uɾanguga,u ɾ a n g u g a
+301,Tamil,sleep,149,sleep-A,uṟaṅku-,,uṟaṅku-,u r̪ a ŋ k u +
+303,Kannada,sleep,150,sleep-B,malagu-,,malagu-,m a l a g u +
+1306,Kannada,sleep,151,sleep-C,nidriso,LOAN,nidriso,n i d r i s o
+820,Telugu,sleep,151,sleep-C,nidɾapoʋu,LOAN,nidɾapoʋu,n i d ɾ a p o ʋ u
+2166,Tamil,sleep,374,sleep-F,tu:ngə,,tu:ngə,t uː n g ə
+1467,Malayalam,small,152,small-A,tʃeɾija,,tʃeɾija,tʃ e ɾ i j a
+305,Tamil,small,152,small-A,ciṟiya,,ciṟiya,c i r̪ i y a
+1259,Kannada,small,153,small-B,tʃikkadu,,tʃikkadu,tʃ i kː a d u
+2109,Tamil,small,271,small-C,tʃinna,,tʃinna,tʃ i nː a
+761,Telugu,small,271,small-C,tʃinna,,tʃinna,tʃ i nː a
+1328,Kannada,smoke,154,smoke-A,hoge,,hoge,h o g e
+1550,Malayalam,smoke,154,smoke-A,puka,,puka,p u k a
+309,Tamil,smoke,154,smoke-A,pukai,,pukai,p u k a i
+2192,Tamil,smoke,154,smoke-A,pugai,,pugai,p u g a i
+846,Telugu,smoke,154,smoke-A,poga,,poga,p o g a
+1316,Kannada,stand,155,stand-A,nintiko,,nintiko,n i n t i k o
+314,Malayalam,stand,155,stand-A,nilkuga,,nilkuga,n i l k u g a
+2177,Tamil,stand,155,stand-A,nil,,nil,n i l
+830,Telugu,stand,155,stand-A,niltʃonu,,niltʃonu,n i l tʃ o n u
+829,Telugu,stand,155,stand-A,nilabaɖu,,nilabaɖu,n i l a b a ɖ u
+317,Tamil,star,156,star-A,mīṉ,,mīṉ,m iː n̪
+320,Kannada,star,158,star-C,nakʂatɾ,LOAN,nakʂatɾ,n a k ʂ a t ɾ
+1542,Malayalam,star,158,star-C,nakʂatɾam,LOAN,nakʂatɾam,n a k ʂ a t ɾ a m
+2184,Tamil,star,158,star-C,natʃtʃatiɾam,LOAN,natʃtʃatiɾam,n a tːʃ a t i ɾ a m
+836,Telugu,star,158,star-C,nakʂatɾamu,LOAN,nakʂatɾamu,n a k ʂ a t ɾ a m u
+837,Telugu,star,275,star-D,tʃukka,,tʃukka,tʃ u kː a
+323,Kannada,stone,159,stone-A,kallu,,kallu,k a lː u
+1324,Kannada,stone,159,stone-A,kallu,,kallu,k a lː u
+1546,Malayalam,stone,159,stone-A,kallə,,kallə,k a lː ə
+2188,Tamil,stone,159,stone-A,kallə,,kallə,k a lː ə
+840,Telugu,stone,160,stone-B,ɾa:ji,,ɾa:ji,ɾ aː j i
+327,Kannada,sun,161,sun-A,su:rja,LOAN,su:rja,s uː r j a
+1540,Malayalam,sun,161,sun-A,su:ɾjan,LOAN,su:ɾjan,s uː ɾ j a n
+2182,Tamil,sun,161,sun-A,su:ɾjan,LOAN,su:ɾjan,s uː ɾ j a n
+834,Telugu,sun,161,sun-A,su:ɾjuɖu,LOAN,su:ɾjuɖu,s uː ɾ j u ɖ u
+3190,Telugu,sun,278,sun-B,poddu,,poddu,p o d d u
+331,Kannada,swim,162,swim-A,i:dʒo,,i:dʒo,iː dʒ o
+330,Malayalam,swim,162,swim-A,neentuga,,neentuga,n e e n t u g a
+2170,Tamil,swim,162,swim-A,neentə,,neentə,n e e n t ə
+823,Telugu,swim,162,swim-A,i:du,,i:du,iː d u
+1280,Kannada,tail,163,tail-A,ba:la,,ba:la,b aː l a
+1498,Malayalam,tail,163,tail-A,ʋa:lə,,ʋa:lə,ʋ aː l ə
+2132,Tamil,tail,163,tail-A,ʋa:lə,,ʋa:lə,ʋ aː l ə
+336,Telugu,tail,163,tail-A,vālamu,,vālamu,v aː l a m u
+918,Telugu,tail,281,tail-B,to:ka,,to:ka,t oː k a
+339,Kannada,that,164,that-A,ā,,ā,aː
+1249,Kannada,that,164,that-A,adhu,,adhu,a dʱ u
+1455,Malayalam,that,164,that-A,a:,,a:,aː
+1454,Malayalam,that,164,that-A,adə,,adə,a d ə
+337,Tamil,that,164,that-A,anta,,anta,a n t a
+2095,Tamil,that,164,that-A,adhə,,adhə,a dʱ ə
+340,Telugu,that,164,that-A,ā,,ā,aː
+747,Telugu,that,164,that-A,adi,,adi,a d i
+1248,Kannada,this,165,this-A,idhu,,idhu,i dʱ u
+1453,Malayalam,this,165,this-A,i:,,i:,iː
+1452,Malayalam,this,165,this-A,idə,,idə,i d ə
+341,Tamil,this,165,this-A,inta,,inta,i n t a
+2094,Tamil,this,165,this-A,idhə,,idhə,i dʱ ə
+344,Telugu,this,165,this-A,ī,,ī,iː
+746,Telugu,this,165,this-A,idi,,idi,i d i
+1246,Kannada,thou,166,thou-A,ni:nu,,ni:nu,n iː n u
+1449,Malayalam,thou,166,thou-A,ni,,ni,n i
+2091,Tamil,thou,166,thou-A,ni,,ni,n i
+743,Telugu,thou,166,thou-A,ni:ʋu,,ni:ʋu,n iː ʋ u
+742,Telugu,thou,166,thou-A,nuʋʋu,,nuʋʋu,n u ʋː u
+1291,Kannada,tongue,167,tongue-A,na:lige,,na:lige,n aː l i g e
+1512,Malayalam,tongue,167,tongue-A,na:kə,,na:kə,n aː k ə
+2145,Tamil,tongue,167,tongue-A,na:kkə,,na:kkə,n aː kː ə
+804,Telugu,tongue,167,tongue-A,na:luka,,na:luka,n aː l u k a
+1290,Kannada,tooth,168,tooth-A,hallu,,hallu,h a lː u
+1511,Malayalam,tooth,168,tooth-A,pallə,,pallə,p a lː ə
+2144,Tamil,tooth,168,tooth-A,pallə,,pallə,p a lː ə
+929,Telugu,tooth,168,tooth-A,pannu,,pannu,p a nː u
+1266,Kannada,tree,169,tree-A,mara,,mara,m a r a
+1479,Malayalam,tree,169,tree-A,maɾam,,maɾam,m a ɾ a m
+2119,Tamil,tree,169,tree-A,maɾam,,maɾam,m a ɾ a m
+772,Telugu,tree,170,tree-B,tʃeʈʈu,,tʃeʈʈu,tʃ e ʈː u
+1478,Malayalam,tree,442,tree-C,vrukʂam,LOAN,vrukʂam,v r u k ʂ a m
+1256,Kannada,two,171,two-A,jeɾaɖu,,jeɾaɖu,j e ɾ a ɖ u
+1463,Malayalam,two,171,two-A,ɾendə,,ɾendə,ɾ e n d ə
+2104,Tamil,two,171,two-A,ɾenɖə,,ɾenɖə,ɾ e n ɖ ə
+758,Telugu,two,171,two-A,ɾeɳɖu,,ɾeɳɖu,ɾ e ɳ ɖ u
+367,Kannada,walk,172,walk-A,naɖə,,naɖə,n a ɖ ə
+366,Malayalam,walk,172,walk-A,naɖakkuga,,naɖakkuga,n a ɖ a kː u g a
+2172,Tamil,walk,172,walk-A,naɖə,,naɖə,n a ɖ ə
+825,Telugu,walk,172,walk-A,naɖutʃu,,naɖutʃu,n a ɖ u tʃ u
+1339,Kannada,warm,173,warm-A,betʃtʃage,,betʃtʃage,b e tːʃ a g e
+2206,Tamil,warm,173,warm-A,ʋedəʋedəppə,,ʋedəʋedəppə,ʋ e d ə ʋ e d ə pː ə
+859,Telugu,warm,173,warm-A,ʋetʃtʃa,,ʋetʃtʃa,ʋ e tːʃ a
+372,Malayalam,warm,174,warm-B,uṣṇa-,LOAN,uṣṇa-,u ʂ ɳ a +
+2207,Tamil,warm,480,warm-C,su:ɖə,,su:ɖə,s uː ɖ ə
+1562,Malayalam,warm,519,warm-F,tʃeɾətʃu:ɖə,,tʃeɾətʃu:ɖə,tʃ e ɾ ə tʃ uː ɖ ə
+2185,Tamil,water,175,water-A,taɳɳi,,taɳɳi,t a ɳ ɳ i
+1544,Malayalam,water,176,water-B,ʋellam,,ʋellam,ʋ e lː a m
+1543,Malayalam,water,527,water-C,jalam,LOAN,jalam,j a l a m
+1322,Kannada,water,520,water-E,ni:ɾu,,ni:ɾu,n iː ɾ u
+2186,Tamil,water,520,water-E,ni:ɾə,,ni:ɾə,n iː ɾ ə
+838,Telugu,water,520,water-E,ni:ɾu,,ni:ɾu,n iː ɾ u
+2085,Telugu,water,520,water-E,ni:ɭɭu,,ni:ɭɭu,n iː ɭː u
+1247,Kannada,we,177,we-A,na:ʋu,,na:ʋu,n aː ʋ u
+1450,Malayalam,we,177,we-A,na:m,,na:m,n aː m
+2092,Tamil,we,177,we-A,na:m,,na:m,n aː m
+745,Telugu,we,177,we-A,manamu,,manamu,m a n a m u
+1451,Malayalam,we,295,we-B,nammal,,nammal,n a mː a l
+2093,Tamil,we,295,we-B,na:nga,,na:nga,n aː n g a
+744,Telugu,we,295,we-B,meːmu,,meːmu,m eː m u
+1251,Kannada,what,178,what-A,je:nu,,je:nu,j eː n u
+1457,Malayalam,what,178,what-A,endə,,endə,e n d ə
+2098,Tamil,what,178,what-A,enne,,enne,e nː e
+384,Telugu,what,178,what-A,ēmi,,ēmi,eː m i
+750,Telugu,what,178,what-A,e:ɳʈi,,e:ɳʈi,eː ɳ ʈ i
+749,Telugu,what,178,what-A,e:miʈi,,e:miʈi,eː m i ʈ i
+1336,Kannada,white,179,white-A,biɭi,,biɭi,b i ɭ i
+1559,Malayalam,white,179,white-A,ʋeɭuppə,,ʋeɭuppə,ʋ e ɭ u pː ə
+2201,Tamil,white,179,white-A,veɭɭə,,veɭɭə,v e ɭː ə
+388,Telugu,white,179,white-A,vella,,vella,v e lː a
+856,Telugu,white,553,white-B,telupu,,telupu,t e l u p u
+1250,Kannada,who,180,who-A,ja:ɾu,,ja:ɾu,j aː ɾ u
+1456,Malayalam,who,180,who-A,a:ɾə,,a:ɾə,aː ɾ ə
+2096,Tamil,who,180,who-A,jaarə,,jaarə,j a a r ə
+748,Telugu,who,180,who-A,evaru,,evaru,e v a r u
+1260,Kannada,woman,181,woman-A,hengasu,,hengasu,h e n g a s u
+1468,Malayalam,woman,181,woman-A,peɳɳə,,peɳɳə,p e ɳ ɳ ə
+2110,Tamil,woman,181,woman-A,peɳ,,peɳ,p e ɳ
+2111,Tamil,woman,181,woman-A,poɳɳə,,poɳɳə,p o ɳ ɳ ə
+395,Kannada,woman,182,woman-B,strī,LOAN,strī,s t r iː
+1469,Malayalam,woman,182,woman-B,stɾi:,LOAN,stɾi:,s t ɾ iː
+763,Telugu,woman,182,woman-B,stɾi:,LOAN,stɾi:,s t ɾ iː
+762,Telugu,woman,404,woman-D,a:ɖadi,,a:ɖadi,aː ɖ a d i
+764,Telugu,woman,412,woman-H,mahiɭa,,mahiɭa,m a h i ɭ a
+1558,Malayalam,yellow,183,yellow-A,maɲa,,maɲa,m a ɲ a
+2200,Tamil,yellow,183,yellow-A,mandʒaɭ,,mandʒaɭ,m a n dʒ a ɭ
+1335,Kannada,yellow,184,yellow-B,haladi,LOAN,haladi,h a l a d i
+855,Telugu,yellow,185,yellow-C,pasupu,,pasupu,p a s u p u
